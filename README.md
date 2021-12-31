@@ -10,6 +10,7 @@ O objetivo do projeto é criar um webscraper em Nodejs acessando o site https://
 ## Código
 
 Executar o comando npm i
+
 Executar o comando npm start
 
 ## 🚀 Tecnologias utilizadas
