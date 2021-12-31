@@ -15,7 +15,6 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 - JavaScript
 - Axios
 - Cheerio
-- Express
 
 --- 
 
