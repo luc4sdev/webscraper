@@ -7,6 +7,10 @@ O objetivo do projeto é criar um webscraper em Nodejs acessando o site https://
 
 --- 
 
+## Código
+
+Executar o comando npm i
+
 ## 🚀 Tecnologias utilizadas
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
